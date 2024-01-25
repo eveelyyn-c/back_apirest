@@ -1,0 +1,4 @@
+com\mongo\api_rest_mongo_trabajo\model\ProductDTO.class
+com\mongo\api_rest_mongo_trabajo\ApiRestMongoTrabajoApplication.class
+com\mongo\api_rest_mongo_trabajo\repository\IProductDAO.class
+com\mongo\api_rest_mongo_trabajo\controller\ProductController.class
